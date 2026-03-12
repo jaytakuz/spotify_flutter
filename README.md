@@ -1,17 +1,22 @@
-# spotify_flutter
+# Spotify Clone with Flutter Framework
 
-A new Flutter project.
+A new Flutter project in SE 464(953464) — Mobile Application Development 
 
-## Getting Started
+## Instruction
 
-This project is a starting point for a Flutter application.
+From what P'Tao taught, select one mobile screen, implement it and also make it responsive to a mobile size, a tablet size and a web size.
+Explain the components that you used to implement the screen, and also explain everything that you learn from P'tao's class to use to implement the UI of the app.
 
-A few resources to get you started if this is your first Flutter project:
+**The point will be given according to:**
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- The hardness of the screen — 5 points
+- clarification of the explanation — 5 points
+- complete implementation — 5 points
+- complete cover P'tao content — 5 points
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Submission:**
+
+1. Git Link
+2. Component explanation
+3. Overall of the app explanation
+4. Cleaned code
